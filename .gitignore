@@ -8,3 +8,6 @@ build/
 coverage/
 *.log
 .DS_Store
+
+backend/resetAdminPassword.js
+backend/testAdminPassword.js
