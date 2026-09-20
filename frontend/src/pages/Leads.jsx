@@ -9,7 +9,7 @@ import {
   Pencil,
 } from "lucide-react";
 
-const API = "http://localhost:5000/api";
+const API = "https://estateflow-crm-d49o.onrender.com/api";
 
 const stages = [
   "NEW",
@@ -694,3 +694,4 @@ function Leads() {
 }
 
 export default Leads;
+

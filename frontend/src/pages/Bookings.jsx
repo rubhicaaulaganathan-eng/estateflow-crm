@@ -9,7 +9,7 @@ import {
   X,
 } from "lucide-react";
 
-const API = "http://localhost:5000/api";
+const API = "https://estateflow-crm-d49o.onrender.com/api";
 
 const statusStyles = {
   CONFIRMED: "bg-emerald-50 text-emerald-600",
