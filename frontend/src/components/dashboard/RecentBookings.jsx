@@ -93,3 +93,4 @@ function RecentBookings() {
 }
 
 export default RecentBookings;
+
